@@ -1,0 +1,14 @@
+D:\projects\TestGitHubActions\TestGitHubActions\bin\Debug\net9.0\TestGitHubActions.exe
+D:\projects\TestGitHubActions\TestGitHubActions\bin\Debug\net9.0\TestGitHubActions.deps.json
+D:\projects\TestGitHubActions\TestGitHubActions\bin\Debug\net9.0\TestGitHubActions.runtimeconfig.json
+D:\projects\TestGitHubActions\TestGitHubActions\bin\Debug\net9.0\TestGitHubActions.dll
+D:\projects\TestGitHubActions\TestGitHubActions\bin\Debug\net9.0\TestGitHubActions.pdb
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\TestGitHubActions.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\TestGitHubActions.AssemblyInfoInputs.cache
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\TestGitHubActions.AssemblyInfo.cs
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\TestGitHubActions.csproj.CoreCompileInputs.cache
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\TestGitHubActions.dll
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\refint\TestGitHubActions.dll
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\TestGitHubActions.pdb
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\TestGitHubActions.genruntimeconfig.cache
+D:\projects\TestGitHubActions\TestGitHubActions\obj\Debug\net9.0\ref\TestGitHubActions.dll
